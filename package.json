@@ -1,5 +1,5 @@
 {
-  "name": "external-component",
+  "name": "@slcloud/external-component",
   "version": "1.0.0",
   "private": false,
   "dependencies": {
